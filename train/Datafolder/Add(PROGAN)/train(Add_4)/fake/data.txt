@@ -1,0 +1,5 @@
+* spec
+content : cat, church_outdoor, train, airplane
+size : 256X256
+GAN : ProGAN
+number : 6,250 each

@@ -1,0 +1,5 @@
+* spec
+content : airplane
+size : 256X256
+GAN : ProGAN
+number : 2K images

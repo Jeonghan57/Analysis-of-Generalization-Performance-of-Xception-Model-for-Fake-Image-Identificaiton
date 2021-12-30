@@ -1,0 +1,5 @@
+* spec
+content : cat, church_outdoor, train, airplane, bus, cow
+size : 256X256
+GAN : N/A
+number : 4,166 each

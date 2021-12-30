@@ -1,0 +1,5 @@
+* spec
+content : horse
+size : 256X256
+GAN : StyleGAN2
+number : 2K images

@@ -1,0 +1,5 @@
+* spec
+content : cat, church_outdoor, train, airplane, bus, cow, bridge, bedroom, classroom
+size : 256X256
+GAN : ProGAN
+number : 2,777 each

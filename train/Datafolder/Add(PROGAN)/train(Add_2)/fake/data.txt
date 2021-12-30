@@ -1,0 +1,5 @@
+* spec
+content : cat, church_outdoor
+size : 256X256
+GAN : ProGAN
+number : 12.5K each
