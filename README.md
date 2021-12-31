@@ -5,7 +5,7 @@
 __IVC(Image & Vision Computing) Lab / Pukyong Nat'l Univ Electronic Engineering / Busan, Republic of Korea__   
 Jeonghan Lee, Hanhoon Park(Major Professor)
 
-* Paper(Korean) :     
+* Paper(Korean) : *Attach the pdf file*(KICSP Fall Conference, pp.31-33, 2021.)
 * Video(Korean) : https://youtu.be/y1UI2oyZGsI
 
 ## Introduction
