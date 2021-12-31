@@ -5,7 +5,7 @@
 __IVC(Image & Vision Computing) Lab / Pukyong Nat'l Univ Electronic Engineering / Busan, Republic of Korea__   
 Jeonghan Lee, Hanhoon Park(Major Professor)
 
-* Paper(Korean) : KICSP Fall Conference, pp.31-33, 2021. (*Attach the pdf file*)
+* Paper(Korean) : "Analysis of Generalization Performance of Xception Model for Fake Image Identification," KICSP Fall Conference, pp.31-33, 2021. (*Attach the pdf file*)
 * Video(Korean) : https://youtu.be/y1UI2oyZGsI
 
 ## Introduction
